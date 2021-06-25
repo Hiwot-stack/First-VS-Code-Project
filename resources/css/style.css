@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner-img {
+    max-width: 100%;
+}
+nav{
+    display: flex;
+    margin-left: 40px;
+    background-color: #1d1d1f;
+       
+}
+
+nav a{
+    margin: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: #86868b;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+    font-weight: 900;
+}
+
+h2 {
+    margin: 30px;
+    text-align: center;
+    font-weight: 900;
+}
+p {
+    text-align: center;
+    margin: 40px;
+    font-size: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.adorable {
+    display: flex;
+    justify-content: space-evenly;
+}
+img {
+    margin: 40px;
+}
+
+.last-puppy {
+    margin-left: 38%;
+}
+
